@@ -1,0 +1,26 @@
+{
+  "name": "site---presente-ideal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motak7/Site---Presente-Ideal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Motak7/Site---Presente-Ideal/issues"
+  },
+  "homepage": "https://github.com/Motak7/Site---Presente-Ideal#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sequelize": "^6.37.6",
+    "sqlite3": "^5.1.7"
+  }
+}
