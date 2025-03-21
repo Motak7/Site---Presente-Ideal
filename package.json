@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Motak7/Site---Presente-Ideal#readme",
   "dependencies": {
+    "body-parser": "^1.20.3",
     "express": "^4.21.2",
+    "mysql2": "^3.14.0",
     "sequelize": "^6.37.6",
     "sqlite3": "^5.1.7"
   }
